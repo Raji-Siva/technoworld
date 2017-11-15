@@ -1,0 +1,54 @@
+body
+{
+background-color:tomato;
+font-family:"Aclonica";
+}
+#ss1
+{
+	border:solid black thick;
+	display:-webkit-flex;
+	
+}
+.hd
+{
+	display:-webkit-inline-flex;
+	width:590px;
+	padding:10px;
+	height:70px;
+	font-size:48px;
+	font-weight:bold;
+	border:solid yellow thick;
+}
+#navbar
+{	width:700px;
+	height:70px;
+	float:right;
+	padding:10px;
+	border:solid blue thick;
+}
+.menu
+{
+	width: 150px;
+	height: 50px;
+	float: right;
+	font-size:30px;
+	background-color:rgb(255,228,196);
+	border-radius:50%;
+	border-style:outset;
+	text-align:center;
+	text-shadow:3px 2px rgb(135,206,255);
+	color:rgb(0,104,139);
+}
+section
+{
+	margin:auto;
+}
+#prv
+{
+	width:100%;
+	height:450px;
+	opacity:0.3;
+	
+}
+
+	
